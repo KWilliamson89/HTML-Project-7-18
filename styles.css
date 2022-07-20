@@ -92,10 +92,10 @@ body:not(header){
 .hamburger > div{
     position: relative;
     top: 0;
-    left: o;
+    left: 0;
     background: white;
-    height: 100vh;
-    width: 60%
+    height: 20px;
+    width: 20px;
     transition: all 0.6s ease;
 }
 
@@ -133,7 +133,7 @@ body:not(header){
 .menu{
     background: rgba(229,228,226,0.3);
     width: 0%;
-    height: 100vh;
+    height: 20px;
     transition: all 0.6s ease;
 }
 
